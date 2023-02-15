@@ -11,8 +11,7 @@ namespace ProjetoNovo
         static void Main(string[] args)
         {
 
-            Console.WriteLine("outra mensagem");
-            Console.WriteLine("adicionei outra");
+            
         }
     }
 }
